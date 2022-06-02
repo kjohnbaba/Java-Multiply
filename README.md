@@ -1,1 +1,1 @@
-# Java-Multiply
+Simple java multiplication program.
