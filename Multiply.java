@@ -8,6 +8,5 @@ public class Multiply {
     int y = StdIn.readInt();
     int sum = x * y;
     StdOut.println("Their multiplication is " + sum);
-        
     }
 }
