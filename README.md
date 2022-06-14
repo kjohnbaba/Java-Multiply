@@ -1,1 +1,1 @@
-Simple java multiplication program.
+Simple java multiplication program for practice.
